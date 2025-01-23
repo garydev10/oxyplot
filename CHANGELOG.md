@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+### Added
+
+- Example to demonstrate how to create vertical BarSeries
+
 ## [2.2.0] - 2024-09-03
 
 ### Added
